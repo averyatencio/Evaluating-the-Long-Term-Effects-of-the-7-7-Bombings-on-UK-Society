@@ -1,3 +1,5 @@
+** below is the Stata code used for the zonal difference-in-difference analysis **
+
 *********************************** DiD ***************************************
 
 import excel "/Users/averyatencio/Documents/Term 3 /Social Economics/ess_avg.xlsx", sheet("Sheet1") firstrow clear
