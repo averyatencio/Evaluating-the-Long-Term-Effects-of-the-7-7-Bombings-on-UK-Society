@@ -1,3 +1,5 @@
+## below is the R code used to generate the synthetic control ##
+
 library(panelView)
 library(gsynth)
 library(readxl)
