@@ -1,3 +1,5 @@
+## below is the R code used to prove the parallel trend assumption for the zonal DiD analysis ##
+
 library(panelView)
 library(gsynth)
 library(readxl)
