@@ -1,3 +1,5 @@
+## below is the R  code used to generate the average treatment effect on the treated (ATT)s ##
+
 library(panelView)
 library(gsynth)
 library(readxl)
