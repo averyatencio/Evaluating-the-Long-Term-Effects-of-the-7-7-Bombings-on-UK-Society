@@ -1,3 +1,5 @@
+** below is the code used to create the descriptive statistics **
+
 /********* Social Economics: Final Paper - Descriptives********* 
 Avery Atencio
 Michael Nahhas
