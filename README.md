@@ -1,0 +1,2 @@
+# Societal-Resilience-and-Trust-Evaluating-the-Long-Term-Effects-of-the-7-7-Bombings-on-UK-Society
+his paper examines the long-term effects of the 7/7 bombings on life satisfaction, attitudes towards “outgroups”, and institutional trust within the UK. Utilizing data from the European Social Survey (ESS) from 2002-2008, we employ the Synthetic Control Method (SCM) to create a counterfactual London, analyzing the bombings’ effects. 
